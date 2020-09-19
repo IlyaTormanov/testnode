@@ -1,0 +1,6 @@
+
+
+exports.sequelize=require('../dbConnection')
+
+
+
